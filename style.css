@@ -1,0 +1,10 @@
+body{
+    background-color: liner-gradient(rgb(116, 116, 236) , rgb(159, 120, 188) , rgb(210, 168, 228));
+    color:white;
+    text-align: center;
+}
+#camera{
+    border: solid 3px black;
+    height:300px;
+    width:350px;
+}
